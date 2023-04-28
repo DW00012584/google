@@ -89,7 +89,7 @@ main{
 
 .chash{
     border-right: 1px solid #ccc;
-    padding-right: 1.5rem;
+    padding: 1rem 1.5rem;
     display: none;
 }
 
